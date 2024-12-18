@@ -1,0 +1,6 @@
+flask
+requests
+chromadb
+pypdf2
+sentence-transformers
+ollama
